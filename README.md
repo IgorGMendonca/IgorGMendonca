@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Formado em Engenharia da Computação pela UNIP - Universidade Paulista
-- 🌱 Estudando: ReactJS, Typescript, JavaScript e alguns pré-processadores CSS (SASS, LESS, Styled-Components, Module). Tenho um conhecimento avançado nestes tópicos 😄
+- 🌱 Estudando: ReactJS, Typescript, JavaScript e alguns pré-processadores CSS (SASS, LESS, Styled-Components e Module). Tenho um conhecimento avançado nestes tópicos 😄
 - 😄 Buscando sempre melhorar e aperfeiçoar meus conhecimentos
 
 <div align="center">
