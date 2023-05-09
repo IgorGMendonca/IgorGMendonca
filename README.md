@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 Formado em Engenharia da Computação pela UNIP - Universidade Paulista
-- 🌱 Estudando: ReactJS, Typescript, JavaScript e alguns pré-processadores CSS (SASS, LESS, Styled-Components e Module). Tenho um conhecimento avançado nestes tópicos 😄
+- 📚 Estudando: Angular, Node e SQL além de contínuo estudo dos tópicos já com conhecimento avançado 😄
+- 🌱 Tópicos de conhecimento: ReactJS, Typescript, JavaScript e alguns pré-processadores CSS (SASS, LESS, Styled-Components e Module) além da metodologia BEM 😄
 - 😄 Buscando sempre melhorar e aperfeiçoar meus conhecimentos
 - 👷 Trabalho: Atualmente estou trabalhando na eCondos Sistemas como Engenheiro de Software Jr.
 
