@@ -3,6 +3,7 @@
 - 🔭 Formado em Engenharia da Computação pela UNIP - Universidade Paulista
 - 🌱 Estudando: ReactJS, Typescript, JavaScript e alguns pré-processadores CSS (SASS, LESS, Styled-Components e Module). Tenho um conhecimento avançado nestes tópicos 😄
 - 😄 Buscando sempre melhorar e aperfeiçoar meus conhecimentos
+- 👷 Trabalho: Atualmente estou trabalhando na eCondos Sistemas como Engenheiro de Software Jr.
 
 <div align="center">
   <a href="https://github.com/IgorGMendonca">
