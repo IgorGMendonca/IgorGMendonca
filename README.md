@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Formado em Engenharia da Computação pela UNIP - Universidade Paulista
-- 📚 Estudando: Angular, Node e SQL além de contínuo estudo dos tópicos já com conhecimento avançado 😄
-- 🌱 Tópicos de conhecimento: ReactJS, Typescript, JavaScript e alguns pré-processadores CSS além da metodologia BEM 😄
-- 😄 Buscando sempre melhorar e aperfeiçoar meus conhecimentos
-- 👷 Trabalho: Atualmente estou trabalhando na eCondos Sistemas como Engenheiro de Software Jr.
+Sou um desenvolvedor full-stack que gosta de aprender novas tecnologias e aplica-las. Isso se confirma nas habilidades destacadas. Estou sempre em busca de novos aprendizados e de evoluir como profissional e pessoa. Manterei meu serviço sempre atualizado e seguro com as boas práticas da empresa e do mercado.
 
 <div align="center">
   <a href="https://github.com/IgorGMendonca">
